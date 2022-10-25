@@ -1,0 +1,33 @@
+.ColorPicker {
+    border: 1px solid rgb(0, 0, 0);
+
+}
+
+.ColorPicker>h2 {
+    color: RED;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ColorPicker>* span {
+    padding: 10px;
+}
+
+.span {
+    cursor: default
+}
+
+
+
+.span>div {
+    display: inline-block;
+}
+
+.span:hover div {
+    display: inline-block;
+    outline: 11px solid rgb(41, 91, 19);
+}
+
+.span:hover {
+    border: 1px solid rgb(0, 0, 0);
+}

@@ -1,0 +1,19 @@
+.Painting_container {
+    border: 3px solid rgb(35, 45, 155);
+    margin: 10px 0px 10px 0px;
+    background-color: rgb(255, 225, 0);
+}
+
+.Painting_text {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(116, 5, 101);
+}
+
+.Painting_container>img {
+    border: 4px solid rgb(58, 24, 24);
+    margin: -1px 0px 0px 0px;
+}
+
+.Painting_container>button {
+    margin: 10px 0px 10px 0px;
+}
